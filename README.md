@@ -50,6 +50,6 @@ python run_train.py --dataset <...> --data-dir <...> --scaling <...> --save-dir 
 For test set evaluation:
 
 ```bash
-python run_eval.py --checkpoint <...> --dataset <...> --data-dir <...> --sc
+python run_eval.py --checkpoint <...> --dataset <...> --data-dir <...> --scaling <...>
 ```
 
